@@ -7,8 +7,8 @@
 - AI 자동 분류 및 전문가 검수를 통해 HS 코드 추천 및 라벨링
 
 ## 문제인식 및 배경
-- <img width="1388" alt="image" src="https://github.com/user-attachments/assets/e68b8846-7dfe-4497-8707-c89369ee7c48" />
-- <img width="1410" alt="image" src="https://github.com/user-attachments/assets/6c97a3f0-f104-4222-aba5-33d1b3fb5477" />
+ <img width="1388" alt="image" src="https://github.com/user-attachments/assets/e68b8846-7dfe-4497-8707-c89369ee7c48" />
+ <img width="1410" alt="image" src="https://github.com/user-attachments/assets/6c97a3f0-f104-4222-aba5-33d1b3fb5477" />
 
 
 ## 🚀 주요 기능
